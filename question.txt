@@ -1,0 +1,12 @@
+1 $viewの記載方法は見栄え そのとおり
+2 $stmt->fetchはどこで関数化しているのか　予約語なので不要
+3 $result["id"]が表示されない理由　タグ内だから
+4 php?id=のidはどこを拾っているのか　idじゃなくてもいい
+5 $result["id"].の「.」は必要か
+
+
+6 　detailで、idをなぜ取得するのか
+7　idはなぜ受信確認しないか
+8　delelteはgetで、updateはpostの意味は
+9　fetchはwhileで使われているのに、関数化して使えるのか
+ 
